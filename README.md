@@ -1,5 +1,7 @@
-# CS 4288: Web-based System Architecture 
+# Play Hearts Online
 
+## Description:
+This web application enables users to play the card game Hearts against bots
 
 ## Usage:
 
