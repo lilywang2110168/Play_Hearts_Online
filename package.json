@@ -1,7 +1,7 @@
 {
-  "name": "assignment6",
+  "name": "Play_Hearts_Online",
   "version": "1.0.0",
-  "description": "Assignment 6",
+  "description": "This web appliation enables users play the card game Hearts against bots",
   "main": "/src/server/index.js",
   "dependencies": {
     "bluebird": "^3.5.0",
@@ -52,6 +52,6 @@
     "test": "mocha --recursive",
     "start": "node ./src/server/index.js"
   },
-  "author": "G. Hemingway",
-  "license": "ISC"
+  "author": "Zhe Wang",
+
 }
