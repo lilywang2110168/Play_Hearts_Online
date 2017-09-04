@@ -1,0 +1,10 @@
+.card-pile {
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+}
+
+img.card {
+    position: absolute;
+    width: 10%;
+}

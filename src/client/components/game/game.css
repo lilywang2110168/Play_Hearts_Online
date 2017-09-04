@@ -1,0 +1,29 @@
+.card-base {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 90%;
+}
+
+.player-pile {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.player-info {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.player-info span {
+    display: inline-block;
+}
+
+
+.player-info .gravitar {
+    border-radius: 5px;
+}

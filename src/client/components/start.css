@@ -1,0 +1,9 @@
+.player img {
+    display: inline;
+    height: 30px;
+}
+
+input.player {
+    width: 80%;
+    display: inline;
+}
