@@ -3,6 +3,12 @@
 ## Description:
 This web application enables users to play the card game Hearts against bots
 
+
+##Structure
+client side: src/client
+server side: src/server
+
+
 ## Usage:
 
 * Clone this repo
