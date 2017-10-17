@@ -4,7 +4,7 @@
 This web application enables users to play the card game Hearts against bots
 
 
-##Structure
+## Structure
 client side: src/client
 server side: src/server
 
